@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mydevops.hihello.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-07T05:11:29.332Z" hostname="LAPTOP-PANCHAMI" time="0.009">
+  <properties/>
+  <testcase name="testApp" classname="mydevops.hihello.AppTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
